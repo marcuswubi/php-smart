@@ -1,0 +1,18 @@
+{
+    "name": "wubi/php-smart",
+    "description": "A library to serve. Agility and Stability in development. This package has the most util functions to coding fast.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcus Vinicius Mendes Goncalves",
+            "email": "marcus@wubi.com.br"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "PHPSmart":"app/src/"
+        }
+    },
+    "require": {}
+}
